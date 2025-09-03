@@ -1,0 +1,1 @@
+-- See previous messages for full SQL; this placeholder ensures the file exists.
