@@ -1,0 +1,1 @@
+﻿export default function Demo(){return(<main className="min-h-screen flex items-center justify-center p-6"><div className="max-w-md w-full bg-white dark:bg-neutral-900 rounded-2xl shadow p-6"><h1 className="text-2xl font-semibold">Demo</h1><p className="text-sm text-gray-600 dark:text-gray-400">صفحة تجريبية.</p></div></main>);}
